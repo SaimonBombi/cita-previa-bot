@@ -11,16 +11,16 @@ bad_msg2 = "En este momento no hay citas disponibles"
 #static - config
 base_path = ""
 cita_url = "https://sede.administracionespublicas.gob.es/icpplus/index.html"
-ff_profile = "/resource/firefox-profile-copy"
-pdf_file_location = "/resource/pdf-downloads"
-exdriver = "/resource/geckodriver"
+ff_profile = "\resource\m5y39o79.default-release"
+pdf_file_location = "\resource\pdf-downloads"
+exdriver = "\resource\geckodriver"
 
 #input - personal details
-nie = "A1234567B"
-nombre = "FIRST AND LAST NAME"
-pais = "COUNTRY NAME IN SPANISH"
-phone = "123456789"
-email = "yourmail@mail.com"
+nie = "Y7480814D"
+nombre = "María Victoria García Castro"
+pais = "Argentina"
+phone = "674805830"
+email = "saimon1091@gmail.com"
 
 ####################################
 #READ ME
